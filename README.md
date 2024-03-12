@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm x0205x</h1>
 <h3 align="center">I'm a passionate Stenography\Network Specialist</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x0205x" alt="x0205x" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif">
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=x0205x&show_icons=true&theme=transparent)"
                    

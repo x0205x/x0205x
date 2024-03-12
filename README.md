@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm x0205x</h1>
 <h3 align="center">I'm a passionate Stenography\Network Specialist</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x0205x&label=Profile%20views&color=0e75b6&style=flat" alt="x0205x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x0205x" alt="x0205x" /></a> </p>
 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=x0205x&show_icons=true&theme=transparent)"
+                   
 - 🔭 I’m currently working on [Social Media Marketing](.gg/xdia)
 
 - 💬 Ask me about **Android(.apk)/Java IDEA, OS Security, Media Marketing**
@@ -16,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@dia-clandestine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dia-clandestine" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dia-clandestine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dia-clandestine" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guru.dia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guru.dia" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/SSwab9JbH2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SSwab9JbH2" height="30" width="40" /></a>
-<a href="/https://xdiaxx.wixsite.com/xdia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://xdiaxx.wixsite.com/xdia" height="30" width="40" /></a>
+<a href="https://xdiaxx.wixsite.com/xdia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://xdiaxx.wixsite.com/xdia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

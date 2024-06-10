@@ -10,7 +10,7 @@ Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ JAVA \ Discord A.I <-> Discord
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on .NET projects/Gaming ideas 
 - 🤔 I’m looking for help with Python 
-- 💬 Ask me about Android(.apk)/Java IDEA, OS distro-integrations, SMM Panels, Media Marketing 
+- 💬 Ask me about Android(.apk)/Java IDEA, GFX Designs OS distro-integrations, SMM Panels, Media Marketing 
 - 📫 How to reach me: Telegram/Discord 
 - 😄 Pronouns: Freak-of-Nature 
 - ⚡ Fun fact: I'm based & Being offended doesn't exist in my life 

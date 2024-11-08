@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm known as xAGENT ~ Mafian
 #### "Originality & Patience Is a Virtue"
-!["Originality & Patience Is a Virtue"]
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70300&width=435&lines=I'm+a+Beacon+for+hate+%7C+Get+off+my+dik)](https://git.io/typing-svg)
 
 Just your extra-ordinary guy.......

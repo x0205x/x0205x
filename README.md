@@ -4,7 +4,7 @@
 
 Just your extra-ordinary guy.......
 
-Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ JAVA \ Discord A.I <-> Discord Developer
+Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ CompTia++ Web \ Discord A.I <-> Discord Developer
 
 - 🔭 I’m currently working on Gaming Mods & Discord Integrations 
 - 🌱 I’m currently learning Python 

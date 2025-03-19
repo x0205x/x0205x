@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm known as xAGENT ~ Mafian
 #### "Originality & Patience Is a Virtue"
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70300&width=435&lines=I'm+a+Beacon+for+hate+%7C+Get+off+my+dik)](https://git.io/typing-svg)
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7331494a304c38685a34776d732f67697068792e676966](https://github.com/user-attachments/assets/2986ee83-d936-429d-94c1-50908c8acdb3)
 
 Just your extra-ordinary guy.......
 

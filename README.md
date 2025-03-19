@@ -25,3 +25,4 @@ Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ CompTia++ Web \ Discord A.I <-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0205x)](https://github.com/anuraghazra/github-readme-stats)
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7331494a304c38685a34776d732f67697068792e676966](https://github.com/user-attachments/assets/7ba6ca9d-0c6d-4b4b-8e29-e63ad3117190)

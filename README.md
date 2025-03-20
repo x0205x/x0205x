@@ -3,18 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70300&width=435&lines=I'm+a+Beacon+for+hate+%7C+Get+off+my+dik)](https://git.io/typing-svg)
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7331494a304c38685a34776d732f67697068792e676966](https://github.com/user-attachments/assets/2986ee83-d936-429d-94c1-50908c8acdb3)
 
-Just your extra-ordinary guy.......
+بس تہاڈا غیر معمولی بندہ.......
 
 Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ CompTia++ Web \ Discord A.I <-> Discord Developer
 
-- 🔭 I’m currently working on Gaming Mods & Discord Integrations 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on .NET projects/Gaming ideas 
-- 🤔 I’m looking for help with Python 
-- 💬 Ask me about Android(.apk)/Java IDEA, GFX Designs OS distro-integrations, SMM Panels, Media Marketing 
-- 📫 How to reach me: Telegram/Discord 
-- 😄 Pronouns: Freak-of-Nature 
-- ⚡ Fun fact: I'm based & Being offended doesn't exist in my life 
+- 🔭 میں ایس ویلے گیمنگ موڈز اینڈ ڈسکارڈ انضمام تے کم کر ریا واں
+- 🌱 میں ایس ویلے ازگر سکھ ریا واں 
+- 👯 میں .NET منصوبیاں / گیمنگ آئیڈیاز تے تعاون کرن دی کوشش کر ریا واں
+- 🤔 میں ازگر دے نال مدد لبھ ریا واں
+- 💬 مینوں اینڈروئیڈ(.apk)/جاوا آئیڈیا، جی ایف ایکس ڈیزائنز او ایس ڈسٹرو انضمام، ایس ایم ایم پینل، میڈیا مارکیٹنگ دے بارے چ پچھو 
+- 📫 میرے نال کیویں اپڑیا جاوے: ٹیلی گرام/ڈسکارڈ 
+- 😄 ضمیر: فریک آف نیچر
+- ⚡ مزے دی گل: میں مقیم آں تے ناراض ہونا میری زندگی چ موجود نئیں اے 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/x0205x)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@dia-clandestine/featured)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://xdiaxx.wixsite.com/xdia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Agent0332)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://app.hackthebox.com/users/624)  

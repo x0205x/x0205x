@@ -5,7 +5,7 @@
 
 بس تہاڈا غیر معمولی بندہ.......
 
-Skills: (C++ | C/C#) \ JAVA \ HTML \ LUA \ PHP7 \ CompTia++ Web \ Discord A.I <-> Discord Developer
+Skills: (C++ | C/C#) \ TYPESCRIPT \ JAVA \ HTML \ LUA \ PHP7 \ CompTia++ Web \ Discord A.I <-> Discord Developer
 
 - 🔭 میں ایس ویلے گیمنگ موڈز اینڈ ڈسکارڈ انضمام تے کم کر ریا واں
 - 🌱 میں ایس ویلے ازگر سکھ ریا واں 
